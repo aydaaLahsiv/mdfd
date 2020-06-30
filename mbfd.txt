@@ -1,0 +1,32 @@
+
+#MBFD
+
+-
+/u/<userid>
+ --userid
+ --username
+ --email
+ --Dob
+ --location
+ --password
+ 
+ 
+/c/<channelid>
+
+-- channelid
+-- modes -- {userid}
+-- restricted
+
+--{postid}
+/c/<channelid>/p/
+
+
+
+/p/<postid>
+ -- postid
+ -- post
+ -- commnents 
+	-- userid
+	-- comment
+ -- like 
+	-- {userid}
